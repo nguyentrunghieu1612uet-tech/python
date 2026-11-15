@@ -4,7 +4,7 @@ Mục tiêu: thành thạo Python qua việc luyện bài trên LeetCode và Hac
 
 ## 📊 Tiến độ
 - LeetCode: 1 bài
-- HackerRank: 24 bài (Introduction 7 · Basic Data Types 6 · Strings 11)
+- HackerRank: 31 bài (Introduction 7 · Basic Data Types 6 · Strings 13 · Sets 5)
 - Khác: 1 bài
 
 ## 📁 Cấu trúc
@@ -54,6 +54,17 @@ Mục tiêu: thành thạo Python qua việc luyện bài trên LeetCode và Hac
 | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Python](hackerrank/strings/string-formatting.py) |
 | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Python](hackerrank/strings/alphabet-rangoli.py) |
 | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [Python](hackerrank/strings/capitalize.py) |
+| [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Python](hackerrank/strings/the-minion-game.py) |
+| [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Python](hackerrank/strings/merge-the-tool.py) |
+
+### HackerRank – Sets
+| Bài | Lời giải |
+|-----|----------|
+| [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Python](hackerrank/set/sets.py) |
+| [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [Python](hackerrank/set/no_idea.py) |
+| [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Python](hackerrank/set/symmetric_difference.py) |
+| [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [Python](<hackerrank/set/set.add().py>) |
+| [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Python](hackerrank/set/discard-remove-pop.py) |
 
 ### Khác
 | Bài | Mô tả | Lời giải |
