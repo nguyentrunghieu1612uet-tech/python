@@ -4,7 +4,7 @@ Mục tiêu: thành thạo Python qua việc luyện bài trên LeetCode và Hac
 
 ## 📊 Tiến độ
 - LeetCode: 1 bài
-- HackerRank: 31 bài (Introduction 7 · Basic Data Types 6 · Strings 13 · Sets 5)
+- HackerRank: 46 bài (Introduction 7 · Basic Data Types 6 · Strings 13 · Sets 13 · Math 7)
 - Khác: 1 bài
 
 ## 📁 Cấu trúc
@@ -65,6 +65,25 @@ Mục tiêu: thành thạo Python qua việc luyện bài trên LeetCode và Hac
 | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Python](hackerrank/set/symmetric_difference.py) |
 | [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [Python](<hackerrank/set/set.add().py>) |
 | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Python](hackerrank/set/discard-remove-pop.py) |
+| [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [Python](hackerrank/set/union.py) |
+| [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [Python](hackerrank/set/intersection.py) |
+| [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [Python](hackerrank/set/difference.py) |
+| [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Python](hackerrank/set/symmetric_difference_operator.py) |
+| [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [Python](hackerrank/set/set_mutations.py) |
+| [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Python](<hackerrank/set/the captain's room.py>) |
+| [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Python](<hackerrank/set/check subset.py>) |
+| [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Python](<hackerrank/set/check strict supset.py>) |
+
+### HackerRank – Math
+| Bài | Lời giải |
+|-----|----------|
+| [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Python](<hackerrank/math/polar coordinates.py>) |
+| [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [Python](<hackerrank/math/find angle mbc.py>) |
+| [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Python](<hackerrank/math/triangle quest 2.py>) |
+| [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Python](<hackerrank/math/mod divmod.py>) |
+| [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Python](<hackerrank/math/power-mod power.py>) |
+| [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Python](<hackerrank/math/intergers come in all sizes.py>) |
+| [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) | [Python](<hackerrank/math/triangle quest.py>) |
 
 ### Khác
 | Bài | Mô tả | Lời giải |
